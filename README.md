@@ -1,6 +1,13 @@
 # Latihan
-
+```
+NIM    :312310632
+NAMA   :FAKHRI AFIF
+KELAS  :TI.23.A6
+MATKUL:Pemrograman orientasi objek 3
+```
+![image](ss.png)
 ## pegawai
+
 ```
 class Pegawai {
     protected String nama;
@@ -150,10 +157,10 @@ public class Main {
 }
 ```
 ## Hasil outputnya
-![image](sui)
+![image](ss1.png)
 
 ## Studi kasus:sistem pembelian online dengan keranjang Belanja
-
+![image](ss3.png) ![image](ss4.png)
 ## produk
 ```
 class Produk {
@@ -308,5 +315,6 @@ public class Main {
 }
 ```
 ## Hasil Outputnya
+![image](ss2.png)
 
 
